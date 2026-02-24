@@ -24,7 +24,3 @@ Game Dev in progress (Not really XD)
 **Software Engineering**
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HelmanLeon&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
