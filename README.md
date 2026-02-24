@@ -21,7 +21,7 @@ Game Dev in progress (Not really XD)
 ## 🎓 Studying
 
 **Universidad de Santander — UDES** <br>
-Software Engineering
+**Software Engineering**
 
 ---
 
