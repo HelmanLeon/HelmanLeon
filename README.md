@@ -1,6 +1,6 @@
-# hey, i'm Helman👋
+# Hey, i'm Helman👋
 
-Videogames Enjoyer
+Videogames Enjoyer <br>
 Game Dev in progress (Not really XD)
 
 ---
@@ -20,7 +20,7 @@ Game Dev in progress (Not really XD)
 
 ## 🎓 Studying
 
-**Universidad de Santander — UDES**
+**Universidad de Santander — UDES** <br>
 Software Engineering
 
 ---
